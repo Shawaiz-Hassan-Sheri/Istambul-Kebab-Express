@@ -1,0 +1,88 @@
+name: users_food_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+    sdk: '>=2.19.6 <3.0.0'
+#   sdk: ">=2.17.5 <3.0.0"
+#  sdk: ">=2.16.0-80.1.beta <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications:
+  firebase_messaging:
+  table_calendar:
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.7.0
+  firebase_auth: ^4.7.3
+  cloud_firestore: ^4.4.3
+  firebase_storage:
+  shared_preferences: ^2.0.11
+  carousel_slider: ^4.0.0
+  number_inc_dec: ^0.8.0
+  fluttertoast: ^8.0.8
+  provider:
+  flutter_carousel_slider: ^1.0.8
+  url_launcher: ^6.0.18
+  intl: ^0.17.0
+  google_fonts: ^4.0.3
+  hexcolor: ^3.0.1
+  lottie: ^2.2.0
+  image_picker: ^0.8.4+4
+  geolocator:
+  geocoding: ^2.0.1
+  flutter_staggered_grid_view: ^0.4.1
+# For Admin
+  flutter_speed_dial:
+  dropdown_search: ^2.0.0
+  font_awesome_flutter:
+# User Location Picker
+  google_maps_flutter: ^2.0.3
+# Maps
+  location: ^4.3.0
+  permission_handler:
+#  -----------------
+  google_api_headers: ^1.5.0+1
+  http:
+  uuid: ^3.0.7
+  firebase_database:
+# for riders
+  flutter_map:
+  flutter_polyline_points: ^1.0.0
+  latlong2: ^0.8.2
+  flutter_spinkit:
+  google_maps_webservice:
+  shimmer:
+  printing:
+  pdf:
+  flutter_pdfview:
+  map_location_picker:
+  form_builder_extra_fields:
+  flutter_typeahead:
+  google_maps_webapi:
+  logger: ^2.0.1
+dependency_overrides:
+  flutter_datetime_picker_bdaya: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints:
+  flutter_lints: ^2.0.1
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+  fonts:
+    - family: Acme
+      fonts:
+        - asset: assets/fonts/Acme-Regular.ttf
+    - family: Kiwi
+      fonts:
+        - asset: assets/fonts/KiwiMaru-Medium.ttf
+    - family: Signatra
+      fonts:
+        - asset: assets/fonts/Signatra.ttf
+    - family: TrainOne
+      fonts:
+        - asset: assets/fonts/TrainOne-Regular.ttf

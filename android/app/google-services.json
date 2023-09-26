@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "142951943628",
+    "project_id": "istambul-kebab-express-9d827",
+    "storage_bucket": "istambul-kebab-express-9d827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142951943628:android:751466e61c0d3a80256169",
+        "android_client_info": {
+          "package_name": "com.kebabexpress.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142951943628-rlvh89hleg9tdggr013q8gna1kbri1dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kebabexpress.ridersapp",
+            "certificate_hash": "b721aaa675a41c3972d7f08fb5ffa89eb2adb6bd"
+          }
+        },
+        {
+          "client_id": "142951943628-0lf8vidk69eiomohs2kgi66f3ti01car.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkr8gEIdx783jYkvrQI8Qc87WY7ogRm38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142951943628-0lf8vidk69eiomohs2kgi66f3ti01car.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142951943628:android:9c1186b1123811df256169",
+        "android_client_info": {
+          "package_name": "com.kebabexpress.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142951943628-1lhtrl39bvhpbk51coq74tdsrjno2uag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kebabexpress.sellersapp",
+            "certificate_hash": "b721aaa675a41c3972d7f08fb5ffa89eb2adb6bd"
+          }
+        },
+        {
+          "client_id": "142951943628-0lf8vidk69eiomohs2kgi66f3ti01car.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkr8gEIdx783jYkvrQI8Qc87WY7ogRm38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142951943628-0lf8vidk69eiomohs2kgi66f3ti01car.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142951943628:android:1c588d04c0586bb5256169",
+        "android_client_info": {
+          "package_name": "com.kebabexpress.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142951943628-cd7bt1nnaeojmgvcpjmv4gaa2jt35mgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kebabexpress.userapp",
+            "certificate_hash": "b721aaa675a41c3972d7f08fb5ffa89eb2adb6bd"
+          }
+        },
+        {
+          "client_id": "142951943628-0lf8vidk69eiomohs2kgi66f3ti01car.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkr8gEIdx783jYkvrQI8Qc87WY7ogRm38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142951943628-0lf8vidk69eiomohs2kgi66f3ti01car.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142951943628:android:1143323f8f3f748c256169",
+        "android_client_info": {
+          "package_name": "com.shawaiz.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142951943628-0lf8vidk69eiomohs2kgi66f3ti01car.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkr8gEIdx783jYkvrQI8Qc87WY7ogRm38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142951943628-0lf8vidk69eiomohs2kgi66f3ti01car.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
