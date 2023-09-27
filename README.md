@@ -8,6 +8,4 @@
 
 #Rider Side
 # status= Picked , Assigned, Delivered , NotReceived"# istambul_kebab_express" 
-"# fyp" 
-"# fyp" 
-"# fyp" 
+
