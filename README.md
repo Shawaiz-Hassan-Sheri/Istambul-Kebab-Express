@@ -1,11 +1,12 @@
 # Users APP
 
-#Admin Side
-# admin_homescreen.dart -> admin_menu_items.dart      -> admin_items_design.dart -> admin_item_details_screen.dart
-# admin_homescreen.dart -> admin_employee_screen.dart -> admin_employee_design.dart -> admin_employee_details_screen.dart
+#Admin Module
+#Rider Module
+#Customer Module
+#Manager Module
 
 
+https://github.com/Shawaiz-Hassan-Sheri/Istambul-Kebab-Express/assets/145899502/7df50caa-c4ef-4af7-9f1a-65556f7090c6
 
-#Rider Side
-# status= Picked , Assigned, Delivered , NotReceived"# istambul_kebab_express" 
+ Assigned, Delivered , NotReceived"# istambul_kebab_express" 
 
